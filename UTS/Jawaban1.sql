@@ -16,7 +16,7 @@ CREATE	TABLE	dosen (
 	id INT	PRIMARY	KEY,
 	nama_depan VARCHAR	(50),
 	nama_belakang VARCHAR	(50),
-	);
+	); 
 	
 CREATE	TABLE	mata_kuliah (
 	id INT	PRIMARY	KEY,

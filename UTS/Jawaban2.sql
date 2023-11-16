@@ -15,7 +15,7 @@ VALUES
 	(085, "Wahyu", "Clark"),
 	(083, "Diah", "Santoso"),
 	(087, "Rangga", "Galih"),
-	(081, "Bruce", "Nath");
+	(081, "Bruce", "Nath"); 
 	
 INSERT	INTO	mata_kuliah
 VALUES

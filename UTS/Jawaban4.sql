@@ -9,4 +9,4 @@ t.nama_matakuliah AS	`Nama Mata Kuliah`,
 t.id_pengajar AS	`NIDN Pengajar`,
 t.jumlah_sks AS	`SKS`
 FROM	mahasiswa as m
-JOIN	mata_kuliah as t ON	t.fakultas_id = m.fakultas_id;
+JOIN	mata_kuliah as t ON	t.fakultas_id = m.fakultas_id; 
